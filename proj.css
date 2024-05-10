@@ -1,0 +1,154 @@
+ul {
+	list-style-type: none;
+}
+
+a {
+	text-decoration: none;
+}
+
+* {
+	padding: 0;
+	margin: 0;
+}
+
+main {
+	width: 1349px;
+	margin: 0 auto;
+	font-family: Arial;
+	color: #717171;
+	background-color:black;
+	background-image:url(fon.png);
+}
+
+.menu {
+	display: flex;
+	justify-content: flex-start;
+	padding: 70px;
+	font-size:20px;
+}
+
+.norm{
+	margin-left:70px;
+}
+
+.logo {
+	margin-left:20px;
+	font-family:Arial;
+	font-size:60;
+	color:#D10000;
+	display:flex;
+	align-items:center;
+}
+
+nav {
+	display: flex;
+	justify-content: space-between;
+	height: 113px;
+	align-items: center;
+	background-color: #0A0A0A;
+}
+
+.number {
+	margin-left: 0px;
+	font-family:Arial;
+	font-size:25;
+	color:#D10000;
+}
+
+
+.new {
+	display: flex;
+	flex-direction: column;
+}
+
+
+
+.new-flex {
+	display: flex;
+	justify-content: space-between;
+	margin: 0 auto;
+}
+
+.guide{
+	display: flex;
+	flex-direction: column;
+	margin-top:100px;
+}
+
+
+
+.text {
+	width: 900px;
+	color: #0A0A0A;
+	font-size:20;
+}
+
+.textcool{
+	padding:15px;
+}
+
+.text p {
+	margin-bottom: 30px;
+	color:#D10000;
+}
+
+.icony{
+	margin-left:240px;
+	margin-top:50px;
+}
+
+.iconx{
+	margin-left:240px;
+	margin-top:50px;
+}
+
+
+
+.adventages{
+	display: flex;
+	flex-direction: column;
+	margin-top:10px;
+
+}
+
+.adventages h1 {
+
+	margin-top: 30px;
+	margin-bottom: 50px;
+	color:#D10000;
+	font-size:30px;
+
+}
+
+.models {
+	display: flex;
+	justify-content: space-around;
+
+}
+
+.models p {
+	text-align: center;
+	color:blue;
+}
+
+.blue{
+	background-color:#30E4E8;
+}
+
+.textcool{
+	background-color:black;
+	color:#D10000;
+}
+
+.txtfirst{
+	display:flex;
+	justify-content:flex-end;
+}
+
+
+.bold {
+	margin-top:50px;
+	font-weight:bold;
+	color:#D10000;
+}
+
